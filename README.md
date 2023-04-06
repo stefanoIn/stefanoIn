@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Stefano</h1>
-<h3 align="center">A Computer Science student from Italy</h3>
-<img align= "right" alt="gif" width="400" src="https://steemitimages.com/DQmSSaWvQTY63MYPKLVU1FPYbjz8ZSYGEpsPDT1CJ9b3CBn/1.gif">
+<img align= "center" alt="wallpaper" width="1000" height="420" src="https://steemitimages.com/DQmSSaWvQTY63MYPKLVU1FPYbjz8ZSYGEpsPDT1CJ9b3CBn/1.gif">
+<h1 align="center" >Hi 👋, I'm Stefano</h1>
+<h3 align="center" >A Computer Science student from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanoin&label=Profile%20views&color=0e75b6&style=flat" alt="stefanoin" /> </p>
 
-- 📫 How to reach me **infusinistefano@gmail.com** or **infusinistefano@icloud.com**
+- 📫 How to reach me **infusinistefano@gmail.com** 
 			
 <h3 align="left">Connect with me:</h3>
 <p align="left">
