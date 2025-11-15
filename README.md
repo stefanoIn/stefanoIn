@@ -1,8 +1,5 @@
 <img align="center" alt="wallpaper" width="1000" height="420" src="https://steemitimages.com/DQmSSaWvQTY63MYPKLVU1FPYbjz8ZSYGEpsPDT1CJ9b3CBn/1.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=stefanoin&label=Profile%20views&color=0e75b6&style=flat" alt="stefanoin" />
-</p>
 
 # Hi, I'm Stefano
 
@@ -20,7 +17,7 @@ University of Genoa
 ## Current Work
 
 - UHI analysis project combining satellite data with urban environmental indicators  
-- Development of a decision-support dashboard for municipal use (Mobility Lab collaboration)  
+- Development of a decision-support dashboard for municipal use 
 - Upcoming NLP course project: an Earth Observation–focused chatbot
 
 ---
