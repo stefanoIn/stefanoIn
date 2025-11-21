@@ -1,6 +1,3 @@
-<img align="center" alt="wallpaper" width="1000" height="420" src="https://steemitimages.com/DQmSSaWvQTY63MYPKLVU1FPYbjz8ZSYGEpsPDT1CJ9b3CBn/1.gif">
-
-
 # Hi, I'm Stefano
 
 MSc Computer Science (AI)  
